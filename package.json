@@ -1,0 +1,13 @@
+{
+  "name": "zenn.dev-public",
+  "version": "1.0.0",
+  "description": "Zenn pages by YuzuRyo61",
+  "private": true,
+  "author": {
+    "name": "YuzuRyo61",
+    "url": "https://yuzuryo61.me/"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.106"
+  }
+}
